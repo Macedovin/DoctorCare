@@ -20,10 +20,6 @@
 
 ## About
 
----
-
-<br/>
-
 Project developed as a result of the teachings learned at NLW - Next Level Week 8, an event of Rocketseat.
 
 The proposal was to build an entire FRONT-END webpage in one week even if I've never program before, wich was my case at the moment.
@@ -32,19 +28,15 @@ The proposal was to build an entire FRONT-END webpage in one week even if I've n
 
 ## Preview
 
----
-
 <h1 align="center">
     <img src="./Assets/DocCare-Mobile.gif" width="200" alt="gif da versão mobile">
 </h1>
 
 <h1 align="center">
-    <img src="./Assets/Doccare-Desktop.gif" width="700" alt="gif da versão desktop">
+    <img src="./Assets/DocCare-Desktop.gif" width="700" alt="gif da versão desktop">
 </h1>
 
 ## Tech Stack
-
----
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dai-HTML" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
@@ -52,11 +44,7 @@ The proposal was to build an entire FRONT-END webpage in one week even if I've n
   <img align="center" alt="Dai-Js" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-<br/>
-
 ## Functionalities
-
----
 
 - Responsive -> Access this by Desktop or mobile;
 - Interactivity -> Click on links to be redirected to it's respective place at the page or even outside it, to send an email, a whatsapp text message or visit social midias;
@@ -64,8 +52,6 @@ The proposal was to build an entire FRONT-END webpage in one week even if I've n
 - Elements reveal at scroll at the first access;
 
 ## Author
-
----
 
 <br/>
 <img align="left" src="https://avatars.githubusercontent.com/Macedovin?size=100">
