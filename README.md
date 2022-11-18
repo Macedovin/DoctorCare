@@ -4,6 +4,8 @@
 
 # DoctorCare
 
+<br/>
+
 **Functional webpage (FRONT-END) builded up for a fictional company specialized in medical care (adaptable).**
 
 ---
@@ -32,6 +34,7 @@ The proposal was to build an entire FRONT-END webpage in one week even if I've n
 <h1 align="center">
     <img src="./Assets/DocCare-Mobile.gif" width="200" alt="mobile version gif ">
 </h1>
+
 <h1 align="center">
     <img src="./Assets/DocCare-Desktop.gif" width="700" alt=" desktop version gif">
 </h1>
@@ -54,6 +57,8 @@ The proposal was to build an entire FRONT-END webpage in one week even if I've n
 - Elements revealed by page scroll on the first access -> ScrollReveal library;
 
 ## Publication
+
+<br/>
 
 To view that project published -> Check out for a [Doctor Care](https://macedovin.github.io/DoctorCare/)!
 
