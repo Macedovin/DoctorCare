@@ -25,7 +25,7 @@
 
 <br/>
 
-Project developed as a result of the teachings learned at NLW - Next Level Week 8, an event of Rocketseat.
+Project developed as a result of the teachings learned at NLW - Next Level Week 8, a Rocketseat event.
 
 The proposal was to build an entire FRONT-END webpage in one week even if I've never program before, wich was my case at the moment.
 
@@ -54,7 +54,7 @@ The proposal was to build an entire FRONT-END webpage in one week even if I've n
 - Responsive -> Access this by Desktop or mobile;
 - Interactivity -> Click on links to be redirected to it's respective place at the page or even outside it, to send an email, a whatsapp text message or visit social midias;
 - Back to top button;
-- Elements revealed by page scroll on the first access -> ScrollReveal library;
+- Elements revealed by page scroll on the first access -> [ScrollReveal library](https://scrollrevealjs.org/);
 
 ## Publication
 
